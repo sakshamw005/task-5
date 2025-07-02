@@ -1,0 +1,1 @@
+**Wireshark** is a tool , which is used to capture packets , which are used for communication between 2 hosts . Inspecting packets can be a great source of reconnaisance as they can be used if there is a data leakage
